@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"./handlers"
+	"github.com/Yarthax23/FullStack/tree/main/v2/backend/handlers"
 )
 
 func main() {
